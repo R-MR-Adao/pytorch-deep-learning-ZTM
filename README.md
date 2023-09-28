@@ -2,7 +2,7 @@
 
 This is a simple repository sharing my notes taken during the completion of Zero To Mastery's [52h course on Deep Learning using Pytorch](https://www.udemy.com/course/pytorch-for-deep-learning) on Udemy.
 
-https://github.com/R-MR-Adao/pytorch-deep-learning-ZTM/assets/111191306/81a81353-94af-45a1-b3dd-0ba424b9fb14
+https://github.com/R-MR-Adao/pytorch-deep-learning-ZTM/assets/111191306/5de22d89-c514-43ce-bc54-5886fcc1fc28
 
 [See original video](https://www.youtube.com/watch?v=XOshEyGSdkA)
 
