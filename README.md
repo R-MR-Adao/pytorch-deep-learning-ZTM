@@ -14,14 +14,33 @@ This repository is based on the materials shared throughout the video lessons, a
 - [pytorch-deep-learning-ZTM](#pytorch-deep-learning-ztm)
 - [Table of Contents](#table-of-contents)
 - [Modules](#modules)
+  - [0. PyTorch fundamentals](#0-pytorch-fundamentals)
+  - [1. PyTorch workflow](#1-pytorch-workflow)
+  - [2. PyTorch Classification](#2-pytorch-classification)
+  - [3. To be continued...](#3-to-be-continued)
 
 # Modules
 
 Modules completed so far:
 
-0. **PyTorch fundamentals:**
+## 0. PyTorch fundamentals
    Introduction to Deep learning and overview of basic PyTorch notation and data structures
-1. **PyTorch workflow:**
+
+## 1. PyTorch workflow
    Overview of the main steps for implementing, training and testing a simple Neural Network-based model (applied to linear regression example)
-2. **PyTorch Classification:**
-   (ongoing)
+
+   ![](./doc/01_PyTorch_Workflow.png)
+
+## 2. PyTorch Classification
+   Learning and practising the basic principles of binary and multi-class classification
+   
+   **Multi-class (quasi-)linear classification**
+   ![](./doc/02_pytorch_classification.png)
+
+   **Binary nonlinear classification**
+   ![](./doc/02_pytorch_classification_exercises_binary.png)
+   
+   **Multi-class nonlinear classification**
+   ![](./doc/02_pytorch_classification_exercises_multiclass.png)
+
+## 3. To be continued...
